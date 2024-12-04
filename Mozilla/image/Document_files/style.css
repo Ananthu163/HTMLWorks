@@ -1,0 +1,31 @@
+.card{
+    width: 40%;
+    min-height: 200px;
+    border: 1px solid black;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.card-image img{
+    width: 30%;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    border: 5px solid darkblue;
+
+}
+.card-body h1{
+    
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.icon{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}

@@ -1,0 +1,13 @@
+.name{
+    display: flex;
+
+}
+.topping{
+    display: flex;
+}
+.sauce{
+    display:flex;
+}
+.optional{
+    display: flex;
+}
